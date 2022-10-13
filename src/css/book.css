@@ -23,13 +23,14 @@
 }
 
 .book-image {
-  min-height: 200px;
-  min-width: 128px;
+  max-height: 200px;
+  max-width: 128px;
 }
 
 .book-image img {
   width: 100%;
   height: 100%;
+  object-fit: cover;
 }
 
 .book-info {

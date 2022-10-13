@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "../css/search.css";
 function Search({ setQuery }) {
   const [search, setSearch] = useState("");
-
   return (
     <div className="search-container">
       <input
