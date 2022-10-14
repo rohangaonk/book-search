@@ -1,7 +1,7 @@
 import React from "react";
 
 function useDebounce() {
-  return <div>useDebounce</div>;
+  return <div></div>;
 }
 
 export default useDebounce;
