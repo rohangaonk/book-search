@@ -1,0 +1,11 @@
+.suggest-container {
+  background-color: white;
+  margin-top: 4px;
+  border: 1px solid black;
+  font-size: small;
+}
+
+li {
+  list-style: none;
+  padding: 2px 4px;
+}
