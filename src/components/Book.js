@@ -10,6 +10,7 @@ function Book({ book }) {
     averageRating,
     imageLinks,
   } = book.volumeInfo;
+  const test = "";
   const defaultImage = "book-cover-placeholder.png";
   const thumbnail = imageLinks?.thumbnail || defaultImage;
 
